@@ -1,0 +1,38 @@
+ 
+ /* *{
+   margin: 0%;
+  padding: 0% 0% 0% 0%; 
+  width: 100%;
+}   */
+/* body{
+
+  width: 100%;
+} */
+
+.container{
+  display:grid;
+  grid-template-columns: auto auto;  
+  gap:70px;
+  padding-left: 0%;
+}
+h3{
+  margin: 0;
+}
+.project{
+  background-color: gray;
+ 
+  
+  height:100vh;
+  /* width: 205vh; */
+}
+
+.prooff{
+  border: double black; 
+  box-sizing: border-box;
+  padding: 40px 3px;
+} 
+
+.bott{
+
+  color: blue;
+}
